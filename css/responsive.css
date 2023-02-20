@@ -285,7 +285,7 @@ img {
     align-items: center;
     cursor: pointer;
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1),
-    boeder 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .company-item:hover, .company-item:focus {
@@ -389,7 +389,6 @@ img {
 .subscribe-icon {
     margin-left: 16px;
 }
-
 
 .backdrop {
     position: fixed;
